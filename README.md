@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="uk">
 <head>
     <meta charset="UTF-8">
@@ -65,8 +66,9 @@
         }
 
         img {
-            max-width: 100%;
-            height: auto;
+            width: 200px; /* Единообразный размер */
+            height: 200px; /* Единообразный размер */
+            object-fit: cover; /* Сохранение пропорций */
             border-radius: 5px;
             margin-bottom: 10px;
         }
@@ -104,6 +106,11 @@
             margin-bottom: 20px;
         }
 
+        audio {
+            width: 100%;
+            margin-top: 10px;
+        }
+
         @media (max-width: 768px) {
             nav {
                 flex-direction: column;
@@ -133,7 +140,7 @@
         <h2>Знамениті люди України</h2>
 
         <div class="card">
-            <img src="https://cdn.culture.ru/images/b63bec59-8a75-565b-8a53-1853e4e751c6/w_1020,c_fill,g_center/2-min-jpg" alt="Тарас Шевченко">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taras_Shevchenko_1841.jpg/220px-Taras_Shevchenko_1841.jpg" alt="Тарас Шевченко">
             <h3>Тарас Григорович Шевченко</h3>
             <p>Народний поет України, художник та політичний діяч. Його твори стали основою української літератури.</p>
             <h4>Книга: "Кобзар"</h4>
@@ -144,7 +151,7 @@
         </div>
 
         <div class="card">
-            <img src="https://poltava.archives.gov.ua/images/2021/11/23/Lesya-Ukrainka-u-zvichnomu-odyazi-1024x830.jpg" alt="Леся Українка">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lesya_Ukrayinka_1910.jpg/220px-Lesya_Ukrayinka_1910.jpg" alt="Леся Українка">
             <h3>Леся Українка</h3>
             <p>Поетеса, драматург та перекладач. Леся Українка написала багато творів, що відображають духовні пошuki та боротьбу за права людини.</p>
             <h4>Книга: "Лісова пісня"</h4>
@@ -155,7 +162,7 @@
         </div>
 
         <div class="card">
-            <img src="https://static.yakaboo.ua/media/entity/author/6/1/61.jpg" alt="Іван Франко">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ivan_Franko_1909.jpg/220px-Ivan_Franko_1909.jpg" alt="Іван Франко">
             <h3>Іван Франко</h3>
             <p>Письменник, поет та політичний діяч. Його твори охоплюють широкий спектр тем: від соціальної справедливості до культурних цінностей.</p>
             <h4>Книга: "Мове зірок"</h4>
@@ -166,7 +173,7 @@
         </div>
 
         <div class="card">
-            <img src="https://cdn.vogue.ua/i/original/media/image/641/b05/220/641b05220f050.jpg.webp" alt="Микола Лисенко">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mykola_Lysenko_portrait.jpg/220px-Mykola_Lysenko_portrait.jpg" alt="Микола Лисенко">
             <h3>Микола Лисенко</h3>
             <p>Композитор, диригент та педагог. Микола Лисенко створив багато музики, що відображає дух української народної культури.</p>
             <h4>Пісня: "Ще не вмерла Україна"</h4>
@@ -176,19 +183,27 @@
                 Ми ще насамперед боротьба<br>
                 Покажемо всім!
             </div>
+            <audio controls>
+                <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Shche_ne_vmerla_Ukrayiny.mp3/Shche_ne_vmerla_Ukrayiny.mp3.mp3" type="audio/mpeg">
+                Ваш браузер не підтримує елемент <code>audio</code>.
+            </audio>
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oksana_Bilozir.jpg/220px-Oksana_Bilozir.jpg" alt="Оксана Білощерка">
-            <h3>Оксана Білощерка</h3>
-            <p>Сучасна українська пісенніця та композитор. Оксана Білощерка відома своїми патріотичними піснями, які вдихають надію та силу.</p>
-            <h4>Пісня: "Два слова"</h4>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marcian_Shaskevych.jpg/220px-Marcian_Shaskevych.jpg" alt="Маркіян Шашкевич">
+            <h3>Маркіян Шашкевич</h3>
+            <p>Український поет, драматург та видатний діяч галицького ренесансу. Він був одним з основоположників Литературно-наукового товариства.</p>
+            <h4>Пісня: "На горі червона калина"</h4>
             <div class="song">
-                Два слова — це все, що потрібно:<br>
-                Ти і я.<br>
-                В два серця вкладена сила,<br>
-                Що нас зберігає.
+                На горі червона калина,<br>
+                Її листочками покрита.<br>
+                Так і серце моє молоде<br>
+                Любов'ю завжди затрепетало.
             </div>
+            <audio controls>
+                <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Na_hori_chervona_kalyna_%28ensemble%29.ogg/Na_hori_chervona_kalyna_%28ensemble%29.ogg.mp3" type="audio/mpeg">
+                Ваш браузер не підтримує елемент <code>audio</code>.
+            </audio>
         </div>
     </section>
 
@@ -202,7 +217,7 @@
         <h3>Харківська область</h3>
         <p>Харків — один з найбільших наукових та промислових центрів України. У Харкові знаходяться видатні університети та наукові інститути, які виховують лідерів у різних галузях знань.</p>
         <h3>Одеська область</h3>
-        <p>Одеса — морський порт, який завжди був відкритий до світу. Це місто з несправдженим чувством юмору та великою культурною спадщиной. Оเทศка опера та бальнеологічні курорти приваблюють туристів со всього світу.</p>
+        <p>Одеса — морський порт, який завжди був відкритий до світу. Це місто з несправдженим чувством юмору та великою культурною спадщиной. Одеська опера та бальнеологічні курорти приваблюють туристів со всього світу.</p>
         <h3>Закарпаття</h3>
         <p>Закарпаття — регіон, де переплелися культури української, угорської, румунської та словаччини. Карпатські гори — це місце, де можна відпочити від шуму мегаполісу та насолоджуватися природою.</p>
     </section>
@@ -236,8 +251,8 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odesa_Opera_House.jpg/220px-Odesa_Opera_House.jpg" alt="Одеський оперний театр">
-            <h3>Одеський оперний театр</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odesa_Opera_House.jpg/220px-Odesa_Opera_House.jpg" alt="Оเทศкий оперний театр">
+            <h3>Оเทศкий оперний театр</h3>
             <p>Архітектурна жемчужина України, яка заснована у 1887 році. Театр відомий своєю прекрасною акустикою та великою сценою, де виступають найкращі артисти світу.</p>
         </div>
     </section>
