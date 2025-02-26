@@ -151,7 +151,7 @@
         </div>
 
         <div class="card">
-            <img src="" alt="Леся Українка">
+            <img src="https://42.dramoxtv.cz/celebrity/mqd5jg8391230213480446946.jpg" alt="Леся Українка">
             <h3>Леся Українка</h3>
             <p>Поетеса, драматург та перекладач. Леся Українка написала багато творів, що відображають духовні пошuki та боротьбу за права людини.</p>
             <h4>Книга: "Лісова пісня"</h4>
@@ -173,7 +173,7 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mykola_Lysenko_portrait.jpg/220px-Mykola_Lysenko_portrait.jpg" alt="Микола Лисенко">
+            <img src="https://esu.com.ua/images/article_images/17tom/foto_esu_465.jpg" alt="Микола Лисенко">
             <h3>Микола Лисенко</h3>
             <p>Композитор, диригент та педагог. Микола Лисенко створив багато музики, що відображає дух української народної культури.</p>
             <h4>Пісня: "Ще не вмерла Україна"</h4>
@@ -185,7 +185,7 @@
             </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marcian_Shaskevych.jpg/220px-Marcian_Shaskevych.jpg" alt="Маркіян Шашкевич">
+            <img src="https://ukrpohliad.org/wp-content/uploads/2023/06/06_07_SHashkevych-01.jpg" alt="Маркіян Шашкевич">
             <h3>Маркіян Шашкевич</h3>
             <p>Український поет, драматург та видатний діяч галицького ренесансу. Він був одним з основоположників Литературно-наукового товариства.</p>
             <h4>Пісня: "На горі червона калина"</h4>
