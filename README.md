@@ -133,7 +133,7 @@
         <h2>Знамениті люди України</h2>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taras_Shevchenko_1841.jpg/220px-Taras_Shevchenko_1841.jpg" alt="Тарас Шевченко">
+            <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taras_Shevchenko_1841.jpg/220px-Taras_Shevchenko_1841.jpg](https://cdn.culture.ru/images/b63bec59-8a75-565b-8a53-1853e4e751c6/w_1020,c_fill,g_center/2-min-jpg)" alt="Тарас Шевченко">
             <h3>Тарас Григорович Шевченко</h3>
             <p>Народний поет України, художник та політичний діяч. Його твори стали основою української літератури.</p>
             <h4>Книга: "Кобзар"</h4>
