@@ -140,7 +140,7 @@
         <h2>Знамениті люди України</h2>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taras_Shevchenko_1841.jpg/220px-Taras_Shevchenko_1841.jpg" alt="Тарас Шевченко">
+            <img src="https://cdn.culture.ru/images/b63bec59-8a75-565b-8a53-1853e4e751c6/w_1020,c_fill,g_center/2-min-jpg" alt="Тарас Шевченко">
             <h3>Тарас Григорович Шевченко</h3>
             <p>Народний поет України, художник та політичний діяч. Його твори стали основою української літератури.</p>
             <h4>Книга: "Кобзар"</h4>
@@ -151,7 +151,7 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lesya_Ukrayinka_1910.jpg/220px-Lesya_Ukrayinka_1910.jpg" alt="Леся Українка">
+            <img src="" alt="Леся Українка">
             <h3>Леся Українка</h3>
             <p>Поетеса, драматург та перекладач. Леся Українка написала багато творів, що відображають духовні пошuki та боротьбу за права людини.</p>
             <h4>Книга: "Лісова пісня"</h4>
@@ -183,11 +183,6 @@
                 Ми ще насамперед боротьба<br>
                 Покажемо всім!
             </div>
-            <audio controls>
-                <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Shche_ne_vmerla_Ukrayiny.mp3/Shche_ne_vmerla_Ukrayiny.mp3.mp3" type="audio/mpeg">
-                Ваш браузер не підтримує елемент <code>audio</code>.
-            </audio>
-        </div>
 
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marcian_Shaskevych.jpg/220px-Marcian_Shaskevych.jpg" alt="Маркіян Шашкевич">
@@ -200,11 +195,6 @@
                 Так і серце моє молоде<br>
                 Любов'ю завжди затрепетало.
             </div>
-            <audio controls>
-                <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Na_hori_chervona_kalyna_%28ensemble%29.ogg/Na_hori_chervona_kalyna_%28ensemble%29.ogg.mp3" type="audio/mpeg">
-                Ваш браузер не підтримує елемент <code>audio</code>.
-            </audio>
-        </div>
     </section>
 
     <!-- Секция Історія регіонів -->
