@@ -144,7 +144,7 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lesya_Ukrayinka_1910.jpg/220px-Lesya_Ukrayinka_1910.jpg" alt="Леся Українка">
+            <img src="https://poltava.archives.gov.ua/images/2021/11/23/Lesya-Ukrainka-u-zvichnomu-odyazi-1024x830.jpg" alt="Леся Українка">
             <h3>Леся Українка</h3>
             <p>Поетеса, драматург та перекладач. Леся Українка написала багато творів, що відображають духовні пошuki та боротьбу за права людини.</p>
             <h4>Книга: "Лісова пісня"</h4>
@@ -155,7 +155,7 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ivan_Franko_1909.jpg/220px-Ivan_Franko_1909.jpg" alt="Іван Франко">
+            <img src="https://static.yakaboo.ua/media/entity/author/6/1/61.jpg" alt="Іван Франко">
             <h3>Іван Франко</h3>
             <p>Письменник, поет та політичний діяч. Його твори охоплюють широкий спектр тем: від соціальної справедливості до культурних цінностей.</p>
             <h4>Книга: "Мове зірок"</h4>
@@ -166,7 +166,7 @@
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mykola_Lysenko_portrait.jpg/220px-Mykola_Lysenko_portrait.jpg" alt="Микола Лисенко">
+            <img src="https://cdn.vogue.ua/i/original/media/image/641/b05/220/641b05220f050.jpg.webp" alt="Микола Лисенко">
             <h3>Микола Лисенко</h3>
             <p>Композитор, диригент та педагог. Микола Лисенко створив багато музики, що відображає дух української народної культури.</p>
             <h4>Пісня: "Ще не вмерла Україна"</h4>
